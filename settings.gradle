@@ -1,0 +1,8 @@
+include ':androidEmojiInput'
+include ':androidPinning'
+include ':memorizingTrustManager'
+include ':slidingMenu'
+include ':tibetanTextLibrary'
+include ':viewPagerIndicator'
+include ':cachewordlib'
+include ':chatSecure'
