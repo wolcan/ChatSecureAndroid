@@ -13,3 +13,7 @@ releases
 docs
 doc
 .directory
+
+.idea/
+.gradle/
+build
